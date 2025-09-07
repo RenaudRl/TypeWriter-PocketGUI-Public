@@ -1,2 +1,2 @@
-# TypeWriter-PocketGUI-Public
-d
+# TypeWriter-PocketGUI
+https://borntocraftstudio.net/wiki/typewriterextensions/twpc
